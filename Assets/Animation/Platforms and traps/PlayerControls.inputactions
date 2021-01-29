@@ -1,0 +1,33 @@
+{
+    "name": "PlayerControls",
+    "maps": [
+        {
+            "name": "Gameplay",
+            "id": "3f271d19-3677-4939-8449-c16a4bee23d8",
+            "actions": [
+                {
+                    "name": "Cuadrado",
+                    "type": "Button",
+                    "id": "5e6088ab-4008-4a12-86ec-687306c7bad4",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "fc3a1bf8-a438-428b-af7c-08975f990c62",
+                    "path": "<HID::DragonRise Inc.   Generic   USB  Joystick  >/button4",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Cuadrado",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
